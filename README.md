@@ -86,8 +86,10 @@ def mc_control(env,
 ### Name: VINOTH M P
 ### Register Number: 212223240182
 
-<img width="1382" height="362" alt="image" src="https://github.com/user-attachments/assets/cfac89eb-b901-4487-b77e-b12adc9c3293" />
-<img width="713" height="62" alt="image" src="https://github.com/user-attachments/assets/d6925a0f-7b6c-4ec9-9460-aa0ce8073969" />
+<img width="1239" height="309" alt="image" src="https://github.com/user-attachments/assets/0eb175c9-866c-4c09-ab56-8809a502a8b8" />
+
+<img width="873" height="29" alt="image" src="https://github.com/user-attachments/assets/3276f164-b369-468d-848b-05790173cdf9" />
+
 
 
 ## RESULT:
